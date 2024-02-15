@@ -1,1 +1,1 @@
-# ChatGPT-API-Sample-Code
+# ChatGPT API Sample Code
